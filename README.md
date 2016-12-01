@@ -1,2 +1,1 @@
-# coder-bts.github.io
-Personal Blog
+#coder-bts
